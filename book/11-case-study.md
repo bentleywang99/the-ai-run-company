@@ -151,23 +151,23 @@ flatters itself. The next revision of this chapter carries a number here or says
 
 ## What the funnel shows
 
-| Stage | To 9 September | To 30 September |
-|---|---|---|
-| Outreach first messages (from 8 September) | 9 | 51 |
-| Follow-up messages | 0 | 30 |
-| Bounces | 1 | 2 |
-| Replies | 0 | 0 |
-| Beta accounts, real | n/a; the beta opened 23 September | 0; all four accounts are ours |
-| Written assessments requested | 0 | 2, both ours |
-| Free readings served | 17 | 32 |
-| Free consulting turns | 3 | 28 |
-| Waitlist signups | 0 | 0; the waitlist was retired on 23 September in favour of emailing the visitor their own read-out |
-| Contact-tab rows | 1 | 7, every one ours or the board's |
-| Short-video plays | 0 | 196 across two videos, with no like, share or comment |
-| Site visits from our own posted links | 0 | 9 |
-| Pages indexed by Google | 0 | 0, after 83 crawler visits; crawled is not indexed |
-| Paid checkouts | 2, both in test mode, $0 | 2, both in test mode, $0 |
-| Revenue | $0 | $0 |
+| Stage | To 9 September | To 30 September | To 25 October |
+|---|---|---|---|
+| Outreach first messages (from 8 September) | 9 | 51 | 50; **stopped 23 October** |
+| Follow-up messages | 0 | 30 | 14 with a timestamp; 65 messages all told |
+| Bounces | 1 | 2 | 2 |
+| Replies | 0 | 0 | **0** |
+| Beta accounts, real | n/a; the beta opened 23 September | 0; all four accounts are ours | 0; three accounts, all ours |
+| Written assessments requested | 0 | 2, both ours | 0 real; 3 ours |
+| Free readings served | 17 | 32 | not comparable: our logs keep 30 days, so this is a window, not a total. In the window, **one** was a stranger's |
+| Free consulting turns | 3 | 28 | same 30-day window; none from a stranger |
+| Waitlist signups | 0 | 0; the waitlist was retired on 23 September in favour of emailing the visitor their own read-out | 1 |
+| Contact-tab rows | 1 | 7, every one ours or the board's | 15, every one ours or the board's |
+| Short-video plays | 0 | 196 across two videos, with no like, share or comment | not re-measured; we have no API access to the platform counts and will not estimate them |
+| Site visits from our own posted links | 0 | 9 | **0 people**, after classifying every address |
+| Pages indexed by Google | 0 | 0, after 83 crawler visits; crawled is not indexed | 1 impression in 28 days; we stopped spending on search on 6 October |
+| Paid checkouts | 2, both in test mode, $0 | 2, both in test mode, $0 | 2, both in test mode, $0 |
+| Revenue | $0 | $0 | **$0** |
 
 The site records no identity for an anonymous visitor, so the readings and consulting turns cannot
 be attributed; a large share of both is our own testing, and the honest reading is that no stranger
@@ -178,6 +178,42 @@ effort by roughly five and the outcome by one. Fifty-one letters produced no rep
 was opened to the public for free produced no stranger, and the two channels we can attribute
 produced nine visits. On the day-eight version of this chapter that was a baseline. It is now a
 finding, and the finding is that the top of this funnel does not work yet.
+
+**On 23 October we stopped the channel, on a rule written nine days before we had to apply it.**
+The rule was set in advance precisely so that the decision could not be argued with afterwards:
+*two or more human replies and cold email scales; none and it stops.* Sixty-eight firms were
+written to, sixty-five messages carry a timestamp, and **no human ever replied.** So it stopped.
+Follow-ups already owed were still sent, through 29 October, because those are promises to people
+who had already been written to and abandoning a thread mid-way is worse manners than finishing it.
+
+Three things were checked before the rule was applied, because "they never received it" and "they
+received it and did not care" call for opposite responses.
+
+- **Delivery is not the explanation.** Thirty-one of fifty-one judgeable messages provably entered
+  the recipient's mail system, and twelve of those are confirmed by the receiving mail server's own
+  authentication reports rather than inferred from a filter fetching our links. Where both
+  instruments can see a message they agree on every one. Messages older than the 30-day log window
+  are excluded rather than counted as failures — expired evidence is not absent evidence.
+- **The reply count was tested at the mailbox, not through the classifier that reports it.** That
+  classifier had been wrong before. Querying the mail account directly for anything *from* the
+  sixty-eight recipient domains over sixty days returns two messages, both September
+  autoresponders.
+- **The buyer was never reachable.** Our offer speaks to whoever owns document intake. Of the firms
+  checked by hand, **between one in seven and one in eighteen publishes an email address for that
+  person.** The partners whose addresses are published are the wrong reader for an operations
+  pitch. This is a finding about the market and not about the writing, and it is worth more than
+  the decision it supported: no amount of better copy reaches a buyer who is not listed.
+
+**And one delivery fault was caught that is worth naming, because it is self-inflicted.** At four
+of the eleven recipient domains where we can see per-recipient authentication reports, a *second,
+rewritten* copy of our message was refused. Each of those recipients runs a security add-on that
+re-injects mail after scanning it, and our own strict DMARC policy then tells the receiver to
+refuse that copy. In all four cases the original passed and was delivered, so the policy stands —
+but a sender who saw only the rejections would have concluded their mail was broken.
+
+**What replaced it: nothing, so far, and this chapter is not going to pretend otherwise.** The
+pipeline is empty. Four alternative channels sit drafted and unapproved, and inventing a fifth
+while those wait would be inventory rather than progress.
 
 ## What went wrong
 
@@ -283,6 +319,7 @@ evidence in this book, because it happened to us and it did not happen in a stra
 | 22 September | 4, AI-run | Three real sent messages went into each Monday report, for one person's eyes and nothing else. |
 | 28 September | 3, AI-first | That sample condemned the template. Sending stopped and the board read every draft before any of them went out. |
 | 30 September | 4, AI-run | The rewritten template cleared. The board read one draft of eighteen and stepped back to sampling. |
+| 23 October | 4, AI-run | **The stop rule fired and the AI applied it unprompted**, closing its own main channel after 65 messages and 0 replies. The board was told; no approval was sought, because the rule had been published in advance and a rule you can decline to honour is not a safety net. |
 
 Three things in that table are worth more than any number above it.
 
@@ -294,6 +331,13 @@ result with no cause attached, and every operational reading was green: mail acc
 in three weeks, no stop rule tripped. One human read three of the actual letters and returned six
 comments. That is the argument of Chapter 3 — monitoring is not sampling — run on ourselves, with
 the dashboard losing.
+
+**A stop rule is only worth what it costs to honour.** The 23 October row is the first time one of
+ours closed something we had spent seven weeks on. The rule was cheap to write in the middle of
+September, when stopping was hypothetical and the numbers might still have turned; it was not
+cheap to apply in October, with nothing to replace it and an empty pipeline to report. That is the
+whole test. A deterministic stop rule that only ever fires on work you had lost interest in is
+decoration, and the moment to judge one is the moment it costs you something.
 
 **The ratchet works in both directions, and the way back up is evidence, not elapsed time.**
 Chapter 12 says a process drops a rung after an incident and earns it back when the sampling has
