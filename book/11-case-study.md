@@ -151,10 +151,17 @@ flatters itself. The next revision of this chapter carries a number here or says
 
 ## What the funnel shows
 
+*The outreach rows were recomputed from `ops/prospects.csv` on 2026-11-09 and three figures were
+wrong in the published version: first messages to 25 October read 50, which was lower than the
+September column and so could not be a cumulative count; follow-ups read "14 with a timestamp"; and
+the total read 65. The campaign was 68 firms and 124 messages. The stop-rule row below carried the
+same 65. Counts exclude the board's two warm introductions, which are not cold outreach and did
+receive replies, both declining.*
+
 | Stage | To 9 September | To 30 September | To 25 October |
 |---|---|---|---|
-| Outreach first messages (from 8 September) | 9 | 51 | 50; **stopped 23 October** |
-| Follow-up messages | 0 | 30 | 14 with a timestamp; 65 messages all told |
+| Outreach first messages (from 8 September) | 13 | 51 | 68; **stopped 23 October** |
+| Follow-up messages | 0 | 30 | 56; **124 messages all told** |
 | Bounces | 1 | 2 | 2 |
 | Replies | 0 | 0 | **0** |
 | Beta accounts, real | n/a; the beta opened 23 September | 0; all four accounts are ours | 0; three accounts, all ours |
@@ -319,7 +326,7 @@ evidence in this book, because it happened to us and it did not happen in a stra
 | 22 September | 4, AI-run | Three real sent messages went into each Monday report, for one person's eyes and nothing else. |
 | 28 September | 3, AI-first | That sample condemned the template. Sending stopped and the board read every draft before any of them went out. |
 | 30 September | 4, AI-run | The rewritten template cleared. The board read one draft of eighteen and stepped back to sampling. |
-| 23 October | 4, AI-run | **The stop rule fired and the AI applied it unprompted**, closing its own main channel after 65 messages and 0 replies. The board was told; no approval was sought, because the rule had been published in advance and a rule you can decline to honour is not a safety net. |
+| 23 October | 4, AI-run | **The stop rule fired and the AI applied it unprompted**, closing its own main channel after 124 messages to 68 firms and 0 replies. The board was told; no approval was sought, because the rule had been published in advance and a rule you can decline to honour is not a safety net. |
 
 Three things in that table are worth more than any number above it.
 
