@@ -6,8 +6,9 @@ description: "The AI-run company's own numbers, rewritten monthly: what it cost 
 
 This is the chapter that cannot be faked, and the reason to keep it honest is that it is the
 only part of this book a sceptical reader will fully trust. Everything here is drawn from the
-company's own ledger, logs, task board, and shift records as of 30 September 2026, the end of the
-first month. Where a table in the previous revision had a figure, that figure is kept beside the
+company's own ledger, logs, task board, and shift records, first as of 30 September 2026 (the end of
+the first month) and then, in the columns and sections that say so, as of 25 October 2026. The next
+rewrite is due at the end of November. Where a table in the previous revision had a figure, that figure is kept beside the
 new one, so the chapter compares itself rather than describing a trend. Where a number is small or
 embarrassing it is printed anyway. The chapter is rewritten at each monthly review and the previous
 versions stay in the repository history.
