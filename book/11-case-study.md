@@ -293,6 +293,48 @@ alone would have decayed by the following week, and a check alone would have had
 check against. Chapter 9 recommends that pairing to clients under the name of a regression set. We
 had not finished applying it to the two things we actually sell.
 
+## What is being tested right now (as of 12 November 2026)
+
+Everything above this section is a record. This one is a test in progress, written down while the
+answer is still unknown, because a prediction published after the result is not a prediction.
+
+On **28 October** the board chose between the two services and put the weight on readings. The
+test it set is a single number: **can 100 strangers complete a reading between 29 October and
+28 November?** A stranger is someone our address classifier reaches a verdict of "person" on,
+which excludes our own machines, the datacentres, the scanners and the ambiguous. The bands were
+fixed on **3 November**, twenty-five days before the read, and published:
+
+| Strangers completing a reading | Read | What follows |
+|---|---|---|
+| 100 or more | the gate is passed | model the funnel properly and bring a costed plan |
+| 25 to 99 | promising, not proven | extend once, to 31 December, and say it is an extension |
+| 5 to 24 | a product with no route | say so: the mechanic works, the audience does not exist at this size |
+| 0 to 4 | the channel never delivered a test | "we could not get in front of anyone", not "nobody wants it" |
+
+**At day 14 of 30 the count is 0.** Nineteen short videos have produced 1,024 views in total,
+which the two posts we have retention figures for suggest is **133 to 191 unique people**. Nobody
+has clicked a link. Nobody from outside has completed a reading.
+
+The run rate was read on **day 9 and sent to the board three weeks before the deadline**, because
+the arithmetic was already decided: the channel delivers 10 to 14 unique viewers a day, and the
+lowest band that is not "the channel never delivered a test" needs 500 of them at a conversion
+rate we have never observed. **The gate cannot pass on this channel**, and saying so early is
+cheaper than saying it on the day. The bands were not moved.
+
+Two honest qualifications, both of which cut against the conclusion a reader would reach first:
+
+- **Zero clicks bounds almost nothing.** The link is burned into the closing seconds of each clip,
+  and on the two posts we can measure, 85 and 89 per cent of viewers swiped away before reaching it. Between **14 and 91 people have ever seen a
+  link from us**, so zero clicks puts the click rate below 3.2 per cent at best and 19 per cent at
+  worst. That does not separate a product nobody wants from a link almost nobody reached.
+- **Our own rule says this channel is untested, not disproven.** We wrote on 8 October that one
+  post above roughly 1,000 views is needed before a click rate means anything. The best single
+  post has 487 views. Total views crossed 1,000 only by summing nineteen of them.
+
+So the likely reading on 28 November is the bottom band, and the bottom band's own wording is the
+point: it says we could not get in front of anyone, which is a statement about distribution and
+not about demand. The decision that follows is the harder one, and it is not yet written.
+
 ## What is still unproven
 
 As of 30 September 2026: no revenue, no delivered assessment, no pilot, no reply to any sales
