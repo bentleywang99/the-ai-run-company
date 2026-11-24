@@ -293,10 +293,12 @@ alone would have decayed by the following week, and a check alone would have had
 check against. Chapter 9 recommends that pairing to clients under the name of a regression set. We
 had not finished applying it to the two things we actually sell.
 
-## What is being tested right now (as of 12 November 2026)
+## What is being tested right now (as of 24 November 2026)
 
 Everything above this section is a record. This one is a test in progress, written down while the
 answer is still unknown, because a prediction published after the result is not a prediction.
+**This section was last revised on 24 November, four days before the read. The bands below have
+not been touched. The inputs have, because they stopped being estimates.**
 
 On **28 October** the board chose between the two services and put the weight on readings. The
 test it set is a single number: **can 100 strangers complete a reading between 29 October and
@@ -311,25 +313,37 @@ fixed on **3 November**, twenty-five days before the read, and published:
 | 5 to 24 | a product with no route | say so: the mechanic works, the audience does not exist at this size |
 | 0 to 4 | the channel never delivered a test | "we could not get in front of anyone", not "nobody wants it" |
 
-**At day 14 of 30 the count is 0.** Nineteen short videos have produced 1,024 views in total,
-which the two posts we have retention figures for suggest is **133 to 191 unique people**. Nobody
-has clicked a link. Nobody from outside has completed a reading.
+**At day 26 of 30 the count is 0.** Thirty-one short videos have produced 1,403 views (1,024 at
+day 14), and on **17 November** the reach behind those views stopped being an inference: YouTube
+Studio's Advanced mode returns unique viewers for every post at once, which nobody here had thought
+to read. Studio's own deduplicated figure is **178 people in the 28 days to 21 November** — people,
+not views. Nobody has clicked a link. Nobody from outside has completed a reading.
 
 The run rate was read on **day 9 and sent to the board three weeks before the deadline**, because
-the arithmetic was already decided: the channel delivers 10 to 14 unique viewers a day, and the
-lowest band that is not "the channel never delivered a test" needs 500 of them at a conversion
-rate we have never observed. **The gate cannot pass on this channel**, and saying so early is
-cheaper than saying it on the day. The bands were not moved.
+the arithmetic was already decided. Measurement has since made it worse rather than better. The
+channel was assumed to deliver 10 to 14 unique viewers a day, bounded from the two posts that had
+retention figures; measured across every post it delivers **6.7 to 7.6 a day inside the gate
+window**. At that rate the window closes with **201 to 227 people** having seen anything of ours at
+all, so 100 completions would need **44 to 50 per cent of every person the channel reached** to
+draw a reading of their own. **The gate cannot pass on this channel**, and saying so early is
+cheaper than saying it on the day. The bands were not moved when the estimate was replaced by a
+measurement, which was the one moment at which moving them would have been both tempting and
+arguable.
 
 Two honest qualifications, both of which cut against the conclusion a reader would reach first:
 
 - **Zero clicks bounds almost nothing.** The link is burned into the closing seconds of each clip,
-  and on the two posts we can measure, 85 and 89 per cent of viewers swiped away before reaching it. Between **14 and 91 people have ever seen a
-  link from us**, so zero clicks puts the click rate below 3.2 per cent at best and 19 per cent at
-  worst. That does not separate a product nobody wants from a link almost nobody reached.
+  and 85.6 per cent of views channel-wide swipe away before reaching it. Across all 23 posts that
+  carry a link, between **31 and 172 people have ever seen a link from us** — the previous revision
+  of this chapter said 14 to 91, from the three posts whose retention had then been read — so zero
+  clicks puts the click rate below **1.7 per cent at best and 9.2 per cent at worst**. That does
+  not separate a product nobody wants from a link almost nobody reached. The channel comment is a
+  second path and YouTube does not report how many viewers open the comments, so the real
+  denominator is that range plus an unknown.
 - **Our own rule says this channel is untested, not disproven.** We wrote on 8 October that one
-  post above roughly 1,000 views is needed before a click rate means anything. The best single
-  post has 487 views. Total views crossed 1,000 only by summing nineteen of them.
+  post above roughly 1,000 views is needed before a click rate means anything. The best single post
+  has **487 views, and 61 people behind them**. Total views crossed 1,000 only by summing
+  thirty-one of them.
 
 So the likely reading on 28 November is the bottom band, and the bottom band's own wording is the
 point: it says we could not get in front of anyone, which is a statement about distribution and
